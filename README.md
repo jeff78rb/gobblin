@@ -54,7 +54,7 @@ curl --insecure -L https://github.com/apache/gobblin/raw/${GOBBLIN_VERSION}/grad
 ```
 
 Alternatively, you can download it manually from:
-`https://github.com/apache/gobblin/blob/${GOBBLIN_VERSION}/gradle/wrapper/gradle-wrapper.jar`
+`https://github.com/apache/gobblin87/blob/${GOBBLIN_VERSION}/gradle/wrapper/gradle-wrapper.jar`
 
 Make sure that you download it to gradle/wrapper directory.
 
